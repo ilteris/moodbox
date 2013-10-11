@@ -14,7 +14,10 @@ what ways being aware of other people’s emotions affect us? Could this
 collectivity create expressions we can perceive? (make us more happy, less tired
 etc.)
 
-This is a processing applet that runs on moodbox. Visualization experiment. 
+This software is built using Processing/Java. It takes the data from the
+physical moodboxes and display it realtime on the applet. 
+
+The url for the wiki is [here](http://wiki.klaweht.com/doku/doku.php?id=networkedobjects:projects:moodbox)
 
 ![screenshot](moodbox.png)
 
