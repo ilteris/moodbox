@@ -1,23 +1,28 @@
 moodbox
 =======
+Moodbox / Year 2007
+ 
+INTRO
 MoodBox is a project attempting to reveal our common but not linguistically
-shared feelings in our everyday life. Our feelings change couple of times
-throughout the day. My aim is to create a collective system where people can
-share and watch these feeling patterns which are among all of us. Hopefully
-those actions will elevate our feelings in general.
-
-Questions I am asking:
-
+shared feelings in our everyday life.
 What if we can log our emotions over time? What if this log consists of not only
 our individual data but a collective log of environment we participate in. In
 what ways being aware of other people’s emotions affect us? Could this
 collectivity create expressions we can perceive? (make us more happy, less tired
-etc.)
+etc.) MoodBox is a project attempting to reveal our common but not linguistically
+shared feelings in our everyday life.
+
+In order to achieve this, I built two wirelessly connected device and installed
+them in public spaces. I visualize the data I collect from these devices in
+realtime. This software is the visualization software I built in Processing.
 
 This software is built using Processing/Java. It takes the data from the
-physical moodboxes and display it realtime on the applet. 
+physical moodboxes and displays it in the software. This repo hosts the source
+code, and applications compatible for OS X, Win32, Win64, Linux. 
 
-The url for the wiki is [here](http://wiki.klaweht.com/doku/doku.php?id=networkedobjects:projects:moodbox)
+Enjoy!
+
+The url for how I developed physical devices and source codes are [here](http://wiki.klaweht.com/networkedobjects/projects/moodbox)
 
 ![screenshot](moodbox.png)
 
